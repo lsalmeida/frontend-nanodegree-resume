@@ -79,6 +79,14 @@ h5 {
 
 }
 
+.project-image img {
+		max-height: 197px;
+}
+
+.project-image a {
+		display: inline;
+}
+
 p {
   font-size: 14px;
   color: #333;
